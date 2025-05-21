@@ -1,0 +1,11 @@
+train: C:\\Users\\viswa\\Documents\\MLOPs\\garbage_detection_yolov5\\train.txt
+val: C:\\Users\\viswa\\Documents\\MLOPs\\garbage_detection_yolov5\\val.txt
+
+# Classes
+names:
+  0: BIODEGRADABLE
+  1: CARDBOARD
+  2: GLASS
+  3: METAL
+  4: PAPER
+  5: PLASTIC
