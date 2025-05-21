@@ -1,4 +1,4 @@
-# garbage_detection_yolov5# 🗑️ Garbage Classification using YOLOv5
+# 🗑️ Garbage Classification using YOLOv5
 
 **GC-YOLOv5** is a computer vision project that automates the detection and classification of garbage into six categories using the YOLOv5 object detection model. The goal is to enhance waste segregation efficiency and reduce human effort in the sorting process.
 
