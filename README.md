@@ -91,7 +91,7 @@ aws configure
 
 📦 2. ECR (Elastic Container Registry)
  - Create an ECR repository to store Docker images.
- - Example ECR URI: 637423357032.dkr.ecr.us-east-2.amazonaws.com/yolov5ecr
+ - Example ECR URI: 533267398036.dkr.ecr.us-east-1.amazonaws.com/garbageyolov5
 
  💻 3. EC2 (Elastic Compute Cloud)
  - Launch a new EC2 Ubuntu instance.
@@ -120,5 +120,5 @@ newgrp docker
     - AWS_ACCESS_KEY_ID
     - AWS_SECRET_ACCESS_KEY
     - AWS_REGION = us-east-2
-    - AWS_ECR_LOGIN_URI = 637423357032.dkr.ecr.us-east-2.amazonaws.com
-    - ECR_REPOSITORY_NAME = yolov5ecr
+    - AWS_ECR_LOGIN_URI = 533267398036.dkr.ecr.us-east-1.amazonaws.com
+    - ECR_REPOSITORY_NAME = garbageyolov5
