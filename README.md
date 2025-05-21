@@ -80,6 +80,7 @@ python app.py
 ## ☁️ AWS CLI Configuration
 ```bash
 aws configure
+Add Access key ID,Secret access key
 
 ## 🚀 AWS CI/CD Deployment with GitHub Actions
 🔐 1. IAM Setup
